@@ -1,0 +1,31 @@
+start date: 2018.11.01 00:00:00, end date: 2019.03.01 00:00:00
+
+{'sigmaIndent': 1.5911, 'invest': 0.04, 'sigmaLength': 0.727, 'sigmaDays': 11, 'incInvest': 6, 'profitPercent': 0.8038, 'selfInvest': False}
+bot #0 start balance: 0.04, end balance: 0.0411802245867, profit: 2.95%, complete date: 2019.05.11 15:20:00
+
+{'sigmaIndent': 1.3027, 'invest': 0.04, 'sigmaLength': 1.1021, 'sigmaDays': 55, 'incInvest': 3, 'profitPercent': 0.2602, 'selfInvest': False}
+bot #1 start balance: 0.04, end balance: 0.0400160964901, profit: 0.04%, complete date: 2019.02.14 02:00:00
+
+{'sigmaIndent': 1.9334, 'invest': 0.04, 'sigmaLength': 2.9878, 'sigmaDays': 7, 'incInvest': 2, 'profitPercent': 7.9302, 'selfInvest': False}
+bot #2 start balance: 0.04, end balance: 0.0466706732878, profit: 16.68%, complete date: 2019.03.05 23:00:00
+
+{'sigmaIndent': 0.5463, 'invest': 0.04, 'sigmaLength': 1.7443, 'sigmaDays': 19, 'incInvest': 1, 'profitPercent': 5.6058, 'selfInvest': False}
+bot #3 start balance: 0.04, end balance: 0.0454278647261, profit: 13.57%, complete date: 2019.03.02 21:40:00
+
+{'sigmaIndent': 0.9073, 'invest': 0.04740508, 'sigmaLength': 2.8182, 'sigmaDays': 9, 'incInvest': 6, 'profitPercent': 7.4326, 'selfInvest': True}
+bot #4 start balance: 0.04, end balance: 0.0474050937413, profit: 18.51%, complete date: 2019.03.05 23:00:00
+
+{'sigmaIndent': 0.4021, 'invest': 0.04, 'sigmaLength': 2.1408, 'sigmaDays': 24, 'incInvest': 1, 'profitPercent': 8.0161, 'selfInvest': False}
+bot #5 start balance: 0.04, end balance: 0.0460066603894, profit: 15.02%, complete date: 2019.03.05 23:00:00
+
+{'sigmaIndent': 0.8846, 'invest': 0.03991754999999996, 'sigmaLength': 1.6342, 'sigmaDays': 36, 'incInvest': 1, 'profitPercent': 0.1115, 'selfInvest': True}
+bot #6 start balance: 0.04, end balance: 0.0399173064082, profit: -0.21%, complete date: 2019.02.25 01:40:00
+
+{'sigmaIndent': 1.0207, 'invest': 0.0416465, 'sigmaLength': 2.9657, 'sigmaDays': 31, 'incInvest': 2, 'profitPercent': 2.2215, 'selfInvest': True}
+bot #7 start balance: 0.04, end balance: 0.0416465680614, profit: 4.12%, complete date: 2019.02.25 01:00:00
+
+{'sigmaIndent': 1.0252, 'invest': 0.04, 'sigmaLength': 3.5363, 'sigmaDays': 33, 'incInvest': 2, 'profitPercent': 6.654, 'selfInvest': False}
+bot #8 start balance: 0.04, end balance: 0.0437766997549, profit: 9.44%, complete date: 2019.03.01 19:20:00
+
+{'sigmaIndent': 1.7298, 'invest': 0.04, 'sigmaLength': 1.1583, 'sigmaDays': 53, 'incInvest': 0, 'profitPercent': 8.9507, 'selfInvest': False}
+bot #9 start balance: 0.04, end balance: 0.0497114500816, profit: 24.28%, complete date: 2019.02.02 08:00:00

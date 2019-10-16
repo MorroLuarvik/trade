@@ -1,0 +1,47 @@
+generation# 0
+{'sigmaIndent': 1.8383, 'invest': 0.04, 'sigmaLength': 2.4999, 'sigmaDays': 57, 'incInvest': 3, 'profitPercent': 4.7351, 'selfInvest': False}
+bot #0 start balance: 0.04, end balance: 0.04, profit: 0.0%, complete date: 2019.04.01 00:40:00, change status counts: 2
+
+{'sigmaIndent': 0.2454, 'invest': 0.043138800000000005, 'sigmaLength': 1.2801, 'sigmaDays': 28, 'incInvest': 6, 'profitPercent': 3.6163, 'selfInvest': True}
+bot #1 start balance: 0.04, end balance: 0.0431388444525, profit: 7.85%, complete date: 2019.04.07 01:00:00, change status counts: 17
+
+{'sigmaIndent': 0.4268, 'invest': 0.04, 'sigmaLength': 3.8456, 'sigmaDays': 9, 'incInvest': 3, 'profitPercent': 5.0225, 'selfInvest': False}
+bot #2 start balance: 0.04, end balance: 0.0415895970355, profit: 3.97%, complete date: 2019.04.07 01:00:00, change status counts: 11
+
+{'sigmaIndent': 1.2432, 'invest': 0.04, 'sigmaLength': 3.1242, 'sigmaDays': 31, 'incInvest': 5, 'profitPercent': 0.2073, 'selfInvest': False}
+bot #3 start balance: 0.04, end balance: 0.0400004263799, profit: 0.0%, complete date: 2019.04.04 10:00:00, change status counts: 6
+
+{'sigmaIndent': 0.5871, 'invest': 0.04, 'sigmaLength': 1.0879, 'sigmaDays': 54, 'incInvest': 6, 'profitPercent': 5.0504, 'selfInvest': False}
+bot #4 start balance: 0.04, end balance: 0.0407074250504, profit: 1.77%, complete date: 2019.04.07 01:00:00, change status counts: 5
+
+generation# 1
+{'sigmaIndent': 0.2454, 'invest': 0.043138800000000005, 'sigmaLength': 1.2801, 'sigmaDays': 28, 'incInvest': 6, 'profitPercent': 3.6163, 'selfInvest': True}
+bot #0 start balance: 0.04, end balance: 0.0431388444525, profit: 7.85%, complete date: 2019.04.07 01:00:00, change status counts: 17
+
+{'sigmaIndent': 0.4268, 'invest': 0.04, 'sigmaLength': 3.8456, 'sigmaDays': 9, 'incInvest': 3, 'profitPercent': 5.0225, 'selfInvest': False}
+bot #1 start balance: 0.04, end balance: 0.0415895970355, profit: 3.97%, complete date: 2019.04.07 01:00:00, change status counts: 11
+
+{'sigmaIndent': 0.5871, 'invest': 0.04, 'sigmaLength': 1.0879, 'sigmaDays': 54, 'incInvest': 6, 'profitPercent': 5.0504, 'selfInvest': False}
+bot #2 start balance: 0.04, end balance: 0.0407074250504, profit: 1.77%, complete date: 2019.04.07 01:00:00, change status counts: 5
+
+{'sigmaIndent': 0.4268, 'invest': 0.04, 'sigmaLength': 1.0879, 'sigmaDays': 43, 'incInvest': 3, 'profitPercent': 5.0225, 'selfInvest': False}
+bot #3 start balance: 0.04, end balance: 0.0410528765504, profit: 2.63%, complete date: 2019.04.07 01:00:00, change status counts: 7
+
+{'sigmaIndent': 0.2454, 'invest': 0.04, 'sigmaLength': 3.8456, 'sigmaDays': 28, 'incInvest': 3, 'profitPercent': 3.6163, 'selfInvest': False}
+bot #4 start balance: 0.04, end balance: 0.0410723366027, profit: 2.68%, complete date: 2019.04.07 01:00:00, change status counts: 17
+
+generation# 2
+{'sigmaIndent': 0.2454, 'invest': 0.043138800000000005, 'sigmaLength': 1.2801, 'sigmaDays': 28, 'incInvest': 6, 'profitPercent': 3.6163, 'selfInvest': True}
+bot #0 start balance: 0.04, end balance: 0.0431388444525, profit: 7.85%, complete date: 2019.04.07 01:00:00, change status counts: 17
+
+{'sigmaIndent': 0.4268, 'invest': 0.04, 'sigmaLength': 3.8456, 'sigmaDays': 9, 'incInvest': 3, 'profitPercent': 5.0225, 'selfInvest': False}
+bot #1 start balance: 0.04, end balance: 0.0415895970355, profit: 3.97%, complete date: 2019.04.07 01:00:00, change status counts: 11
+
+{'sigmaIndent': 0.2454, 'invest': 0.04, 'sigmaLength': 3.8456, 'sigmaDays': 28, 'incInvest': 3, 'profitPercent': 3.6163, 'selfInvest': False}
+bot #2 start balance: 0.04, end balance: 0.0410723366027, profit: 2.68%, complete date: 2019.04.07 01:00:00, change status counts: 17
+
+{'sigmaIndent': 0.4268, 'invest': 0.04, 'sigmaLength': 3.8456, 'sigmaDays': 47, 'incInvest': 3, 'profitPercent': 5.0225, 'selfInvest': False}
+bot #3 start balance: 0.04, end balance: 0.0404541792308, profit: 1.14%, complete date: 2019.04.07 01:00:00, change status counts: 7
+
+{'sigmaIndent': 0.2454, 'invest': 0.04, 'sigmaLength': 3.8456, 'sigmaDays': 28, 'incInvest': 6, 'profitPercent': 3.6163, 'selfInvest': False}
+bot #4 start balance: 0.04, end balance: 0.0409903149959, profit: 2.48%, complete date: 2019.04.07 01:00:00, change status counts: 17
